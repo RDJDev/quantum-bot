@@ -1,13 +1,13 @@
 {
-	"Prefijo": ".",
+	"Prefijo": "-",
 	"MultiIdioma": [
 		true,
 		""
 	],
 	"Propietario": [
 		[
-			"51991630056",
-			"Matt_Mdz",
+			"4915679318168",
+			"SAXFU",
 			true
 		],
 		[
@@ -22,7 +22,7 @@
 	],
 	"Mode": "default",
 	"LocPref": "51",
-	"NombreDelBot": "QUANTUM-BOT",
+	"NombreDelBot": "SAXFU-Bot",
 	"MinimoDeUsuarios": 3,
 	"Limits": {
 		"gms": 10,
